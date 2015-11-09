@@ -1,6 +1,6 @@
 {
   "name": "typeahead-haven.js",
-  "version": "0.11.2",
+  "version": "0.11.3",
   "main": "dist/typeahead.bundle.js",
   "dependencies": {
     "jquery": ">=1.7"
