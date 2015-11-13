@@ -76,7 +76,6 @@ var WWW = (function() {
       input: {
         position: 'relative',
         verticalAlign: 'top',
-        backgroundColor: 'transparent'
       },
       inputWithNoHint: {
         position: 'relative',
