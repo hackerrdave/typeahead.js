@@ -1,5 +1,5 @@
 {
-  "name": "typeahead.js",
+  "name": "typeahead-haven.js",
   "description": "fast and fully-featured autocomplete library",
   "keywords": [
     "typeahead",
@@ -9,7 +9,7 @@
   "bugs": "https://github.com/twitter/typeahead.js/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/twitter/typeahead.js.git"
+    "url": "https://github.com/hackerrdave/typeahead.js.git"
   },
   "author": {
     "name": "Twitter, Inc.",
